@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityLifeCycle/activityLifeCycle.iml" filepath="$PROJECT_DIR$/activityLifeCycle/activityLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskexample/asynctaskexample.iml" filepath="$PROJECT_DIR$/asynctaskexample/asynctaskexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecycleacticityanddynamicfragments/lifecycleacticityanddynamicfragments.iml" filepath="$PROJECT_DIR$/lifecycleacticityanddynamicfragments/lifecycleacticityanddynamicfragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecycleactivityandfragment/lifecycleactivityandfragment.iml" filepath="$PROJECT_DIR$/lifecycleactivityandfragment/lifecycleactivityandfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localBroadCastManager/localBroadCastManager.iml" filepath="$PROJECT_DIR$/localBroadCastManager/localBroadCastManager.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifecycleActicityandDynamicFragments</string>
+    <string name="fragment_one">Fragment one</string>
+    <string name="fragment_two">Fragment two</string>
+</resources>
