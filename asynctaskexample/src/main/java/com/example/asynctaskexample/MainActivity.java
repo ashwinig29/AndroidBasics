@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         MyAsyncTask asyncTask = new MyAsyncTask();
         asyncTask.execute("http://developer.android.com");
+        Toast.makeText(MainActivity.this, "onCreate", Toast.LENGTH_LONG).show();
 
     }
 

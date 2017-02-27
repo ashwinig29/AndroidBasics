@@ -1,1 +1,1 @@
-include ':localBroadCastManager', ':lifecycleactivityandfragment', ':lifecycleacticityanddynamicfragments', ':activityLifeCycle', ':asynctaskexample'
+include ':localBroadCastManager', ':lifecycleactivityandfragment', ':lifecycleacticityanddynamicfragments', ':activityLifeCycle', ':asynctaskexample', ':threadslifecycleactivity'
