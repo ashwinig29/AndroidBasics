@@ -63,7 +63,7 @@ public class MainActivity extends Activity {
         if (downloadBitmap != null) {
             downloadBitmap = null;
         }
-        imageView.setImageResource(R.drawable.photo);
+        imageView.setImageResource(R.mipmap.ic_launcher);
     }
 
     public void downloadPicture(View view) {

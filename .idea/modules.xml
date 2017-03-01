@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/lifecycleacticityanddynamicfragments/lifecycleacticityanddynamicfragments.iml" filepath="$PROJECT_DIR$/lifecycleacticityanddynamicfragments/lifecycleacticityanddynamicfragments.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecycleactivityandfragment/lifecycleactivityandfragment.iml" filepath="$PROJECT_DIR$/lifecycleactivityandfragment/lifecycleactivityandfragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/localBroadCastManager/localBroadCastManager.iml" filepath="$PROJECT_DIR$/localBroadCastManager/localBroadCastManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadsexample/threadsexample.iml" filepath="$PROJECT_DIR$/threadsexample/threadsexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadslifecycleactivity/threadslifecycleactivity.iml" filepath="$PROJECT_DIR$/threadslifecycleactivity/threadslifecycleactivity.iml" />
     </modules>
   </component>
